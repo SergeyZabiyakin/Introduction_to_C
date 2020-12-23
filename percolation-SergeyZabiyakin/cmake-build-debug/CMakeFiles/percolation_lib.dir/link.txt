@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libpercolation_lib.a  CMakeFiles/percolation_lib.dir/src/Percolation.cpp.obj CMakeFiles/percolation_lib.dir/src/PercolationStats.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libpercolation_lib.a

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="2d_tree" targetName="runUnitTests" />
+      <config projectName="2d_tree" targetName="gmock" />
+      <config projectName="2d_tree" targetName="gtest_main" />
+      <config projectName="2d_tree" targetName="gmock_main" />
+      <config projectName="2d_tree" targetName="2d_tree" />
+      <config projectName="2d_tree" targetName="etc" />
+      <config projectName="2d_tree" targetName="gtest" />
+      <config projectName="2d_tree" targetName="2d_tree_lib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c776421-a9a9-47c9-904a-c8d19afd8e17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/googletest" beforeDir="false" afterPath="$PROJECT_DIR$/googletest" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+  </component>
+  <component name="ProjectId" id="1m4BXAa6Dvi5SORTQORvY9KttcL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../percolation-SergeyZabiyakin" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Google Test.All in test.cpp">
+    <configuration name="All in test.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="runUnitTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="runUnitTests" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/test/src/test.cpp)" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointSetTest.NearestForwardIterator" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="runUnitTests" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="runUnitTests" TEST_CLASS="PointSetTest" TEST_METHOD="NearestForwardIterator" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointSetTest.PointSetMethods" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="runUnitTests" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="runUnitTests" TEST_CLASS="PointSetTest" TEST_METHOD="PointSetMethods" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointSetTest.RangeForwardIterator" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="runUnitTests" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="runUnitTests" TEST_CLASS="PointSetTest" TEST_METHOD="RangeForwardIterator" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runUnitTests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="runUnitTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="runUnitTests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2d_tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="2d_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2d_tree" RUN_TARGET_NAME="2d_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2d_tree_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="2d_tree_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="etc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="etc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2d_tree" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.All in test.cpp" />
+      <item itemvalue="Google Test.PointSetTest.NearestForwardIterator" />
+      <item itemvalue="Google Test.PointSetTest.PointSetMethods" />
+      <item itemvalue="Google Test.PointSetTest.RangeForwardIterator" />
+      <item itemvalue="Google Test.runUnitTests" />
+      <item itemvalue="CMake Application.2d_tree" />
+      <item itemvalue="CMake Application.2d_tree_lib" />
+      <item itemvalue="CMake Application.etc" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.All in test.cpp" />
+        <item itemvalue="Google Test.PointSetTest.RangeForwardIterator" />
+        <item itemvalue="Google Test.PointSetTest.NearestForwardIterator" />
+        <item itemvalue="Google Test.PointSetTest.PointSetMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c776421-a9a9-47c9-904a-c8d19afd8e17" name="Default Changelist" comment="" />
+      <created>1608743019642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608743019642</updated>
+      <workItem from="1608743021157" duration="948000" />
+      <workItem from="1608744011814" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1608744025971">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1608744025971" />
+    <state width="1557" height="271" key="GridCell.Tab.0.bottom" timestamp="1608743970036">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="271" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1608743970036" />
+    <state width="1557" height="271" key="GridCell.Tab.0.center" timestamp="1608743970035">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="271" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1608743970035" />
+    <state width="1557" height="271" key="GridCell.Tab.0.left" timestamp="1608743970035">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="271" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1608743970035" />
+    <state width="1557" height="271" key="GridCell.Tab.0.right" timestamp="1608743970035">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="271" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1608743970035" />
+  </component>
+</project>

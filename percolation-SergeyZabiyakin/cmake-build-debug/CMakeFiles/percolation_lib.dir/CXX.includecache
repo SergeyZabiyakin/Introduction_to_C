@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Percolation.h
+stdio.h
+-
+vector
+-
+
+../include/PercolationStats.h
+stdio.h
+-
+Percolation.h
+../include/Percolation.h
+
+../include/rand_generator.h
+functional
+-
+random
+-
+ctime
+-
+
+C:/Users/rabto/CLionProjects/percolation-SergeyZabiyakin/src/Percolation.cpp
+Percolation.h
+C:/Users/rabto/CLionProjects/percolation-SergeyZabiyakin/src/Percolation.h
+stack
+-
+
+C:/Users/rabto/CLionProjects/percolation-SergeyZabiyakin/src/PercolationStats.cpp
+Percolation.h
+-
+PercolationStats.h
+C:/Users/rabto/CLionProjects/percolation-SergeyZabiyakin/src/PercolationStats.h
+random
+-
+rand_generator.h
+-
+

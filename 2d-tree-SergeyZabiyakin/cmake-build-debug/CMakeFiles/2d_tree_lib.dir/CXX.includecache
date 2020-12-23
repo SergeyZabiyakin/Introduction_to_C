@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/primitives.h
+memory
+-
+ostream
+-
+optional
+-
+vector
+-
+cmath
+-
+algorithm
+-
+map
+-
+functional
+-
+stack
+-
+iostream
+-
+set
+-
+limits
+-
+memory
+-
+
+C:/Users/rabto/CLionProjects/2d-tree-SergeyZabiyakin/src/2dtree.cpp
+primitives.h
+C:/Users/rabto/CLionProjects/2d-tree-SergeyZabiyakin/src/primitives.h
+
